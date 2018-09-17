@@ -1,0 +1,18 @@
+body{
+  background-color: #33F3FF;
+}
+form{
+  margin: 0 auto;
+  width: 20rem;
+}
+.content-center{
+  max-width: 960px;
+  margin: auto;
+}
+.btn-padding{
+  padding-bottom: 3rem;
+}
+
+.btn-pagina-inicial{
+  padding-right: 4rem;
+}
